@@ -26,7 +26,7 @@ namespace Methods_Exercise
             Console.WriteLine($"He was {userHeight}, and loved to eat at {userFavdish}!");
             Console.WriteLine($"{userName} loves to take is his pet dog {userDogName} on morning walks. ");
 
-
+            
             // exercise part 2
             Console.WriteLine("Give me a number to add");
             int num1 = int.Parse(Console.ReadLine());
@@ -45,35 +45,20 @@ namespace Methods_Exercise
 
             int product = Multiply(num1, num2);
             Console.WriteLine($"The product is:{product}");
-        }
-
-
+        } 
         //challange mode
         public static int Sum(params int[] list)
         {
-            int sum = 0;
-            for (int i = 0; i < list.Length; i++)
-            {
-                sum = sum + list[i];
-            }
-            return sum;
+             int sum = 0;
+             for (int i = 0; i < list.Length; i++)
+             {
+                 sum = sum + list[i];
+             }
+             return sum; 
+        } 
+        public static int Multiply(int x, int y)
+        {
+             return x * y;
         }
-
     }
-
-    public static int Sum(int num1, int num2)
-    {
-        //int sum = num1 + num2;
-
-        //return sum;
-
-        return num1 + num2;
-    }
-
-    public static int Multiply(int x, int y)
-    {
-        return x * y;
-
-    }
-}
 }

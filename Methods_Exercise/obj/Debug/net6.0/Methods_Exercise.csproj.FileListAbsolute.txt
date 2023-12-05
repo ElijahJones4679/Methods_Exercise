@@ -2,3 +2,13 @@ C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\M
 C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\Methods_Exercise.AssemblyInfoInputs.cache
 C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\Methods_Exercise.AssemblyInfo.cs
 C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\Methods_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\bin\Debug\net6.0\Methods_Exercise.exe
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\bin\Debug\net6.0\Methods_Exercise.deps.json
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\bin\Debug\net6.0\Methods_Exercise.runtimeconfig.json
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\bin\Debug\net6.0\Methods_Exercise.dll
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\bin\Debug\net6.0\Methods_Exercise.pdb
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\Methods_Exercise.dll
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\refint\Methods_Exercise.dll
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\Methods_Exercise.pdb
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\Methods_Exercise.genruntimeconfig.cache
+C:\Users\jones\source\repos\Methods_Exercise\Methods_Exercise\obj\Debug\net6.0\ref\Methods_Exercise.dll
